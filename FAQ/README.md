@@ -1,4 +1,7 @@
-# HTMLCOIN Frequently Asked Questions
+# HTMLCOIN FAQ - Часто задаваемы вопросы.
+  * Цель данного форка, донести информацию до Русскоговорящего сообщества HTMLCOIN RUSSIA
+  * Русскоговорящее сообщество в телеграм https://t.me/htmlofficialrussia
+  
   * Anyone interested in forking my repo and work on it, please work on the dev or create a new branch after the fork and work on it. This page gets updated quite frequently and it can take longer time for me to review your pull request.  new branch should be `<your-github-username>_dev` For exmaple: richardjoo_dev.  Thanks!
   * If any pull request was made to the master, it might not be approved.
   * Please make sure to update the fork before you update if you are planning on merging
